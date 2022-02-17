@@ -16,7 +16,7 @@ Para instalar o Travel Landing Page, siga estas etapas:
 
 Windows, Linux e macOS:
 ```
-Travel Landing Page
+git clone https://github.com/guilhermeSDB/Travel-Website.git
 ```
 
 ## ☕ Usando Travel Landing Page
